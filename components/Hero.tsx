@@ -20,7 +20,7 @@ export default function Hero() {
         transition={{ delay: 0.5, duration: 0.8 }}
       >
         <h1 className="text-4xl md:text-6xl font-extrabold mb-6 text-white leading-tight drop-shadow-xl">
-          Efan Rice Masters
+          Efan Rice Factory
         </h1>
         <p className="mb-8 text-lg md:text-2xl text-white/90 drop-shadow-sm">
           Nigeria’s Premium Rice Producers — Nurturing Quality from Owa, Delta State to the World.
